@@ -4,17 +4,17 @@
  */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Playfair Display SC", serif;
-  color: #333333; }
+  color: #080808; }
 
 a, p, li {
   font-family: "Lato", Arial, sans-serif;
-  color: #4e4e4e;
+  color: #050505;
   font-size: 1em;
   line-height: 1.75em; }
 
 a:hover {
   text-decoration: none !important;
-  color: #333333 !important;
+  color: #080808 !important;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   -ms-transition: all 0.2s ease-in-out;
@@ -107,7 +107,7 @@ a:hover {
     top: -150px;
     font-size: 270px;
     z-index: -1;
-    color: #f4f4f4; }
+    color: #7400b3; }
   .intro h1 span {
     font-size: 47px; }
 
